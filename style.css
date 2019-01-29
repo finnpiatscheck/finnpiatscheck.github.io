@@ -83,7 +83,7 @@ img.aligncenter {
 
 #header-wrapper {
 	height: 167px; 
-	background-image: url(images/banner.png);
+	background-image: url(images/banner-2.png);
 	background-repeat:no-repeat;
 	background-position: center center;
 	background-size: 100%;
@@ -121,7 +121,7 @@ img.aligncenter {
 }
 
 #logo h1 a {
-	color: #c2d4dd;
+	color: #2483A6;
 }
 
 #logo p {
